@@ -1,0 +1,1 @@
+price /*/ rate = price * rate `div` 100 + price
